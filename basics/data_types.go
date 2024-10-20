@@ -6,7 +6,7 @@ import "unicode/utf8"
 func dataTypes(){
     var num int = 4392
     fmt.Println(num)
-    // int - depends on platoform 32bit/ 64bit
+    // int - depends on platform 32bit/ 64bit
     // int8 - 8bits/ 1byte -128 to 127
     // int16 - range 32,000
     // int32
